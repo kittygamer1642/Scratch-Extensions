@@ -9,4 +9,5 @@ How to import into turbowarp (scratch mod):
 7. Paste the code you copied into the text box
 8. Turn on "Run without sanbox" if required by the specific extension
 9. Click "Load" and the extension should pop up in the block pallete
+
 If you have any issues let me know
