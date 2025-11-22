@@ -1,3 +1,4 @@
+//RUN THIS EXTENSION WITHOUT THE SANDBOX!!!
 (function(Scratch) {
   'use strict';
   
